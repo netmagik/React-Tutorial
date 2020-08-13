@@ -2,5 +2,6 @@
 
 ## Simple Name-Job Directory
 
-[Author: Tania Rascia](https://www.taniarascia.com/) 
+### [Demo:](https://netmagik.github.io/React-Tutorial/)
 
+[Author: Tania Rascia](https://www.taniarascia.com/) 
