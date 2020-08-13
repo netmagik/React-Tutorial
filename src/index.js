@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './Api';
+// Api little App
+// import App from './Api';
+import App from './App';
 import './index.css';
 
 ReactDOM.render(
